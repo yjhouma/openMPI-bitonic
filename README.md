@@ -1,3 +1,12 @@
+###anggota
+13515053: Yohannes Jhouma 
+13515104: Rizki Ihza Parama
+
+###pembagian tugas
+Yohannes: openMPI, makefile
+Rizki: bitonic sort, readme, file eksternal
+
+
 ### Petunjuk
     Jalankan `make` pada terminal
     Jalankan `mpirun -np <num_proc> ./bitonic_sort <arr_length>`
