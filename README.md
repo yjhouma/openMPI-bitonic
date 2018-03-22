@@ -1,8 +1,8 @@
-###anggota
+### Anggota
 13515053: Yohannes Jhouma 
 13515104: Rizki Ihza Parama
 
-###pembagian tugas
+### Pembagian tugas
 Yohannes: openMPI, makefile
 Rizki: bitonic sort, readme, file eksternal
 
